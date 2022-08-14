@@ -1,7 +1,7 @@
 ﻿
-int xa = 1, ya = 18, xb = 1, yb = 18,
+int xa = 1, ya = 12, xb = 1, yb = 24,
     xc = 40, yc = 1, xd = 40, yd = 36,
-    xe = 80, ye = 18, xf = 80, yf = 18;
+    xe = 80, ye = 12, xf = 80, yf = 24;
 string znak = "7";// 
 
 Console.Clear();
