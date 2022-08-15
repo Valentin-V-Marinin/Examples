@@ -452,3 +452,6 @@ Footer navigation
     Blog
     About
 
+#my own file types
+    *.txt
+    *.png
